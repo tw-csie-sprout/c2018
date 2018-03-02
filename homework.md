@@ -4,7 +4,8 @@
 
 |  日期   |  週次  | 上課練習              | 勾選作業 | 加分題  | 檢討   |
 | :---: | :--: | :---------------- | :--- | :--- | :--- |
-| 03/03 |  01  | [TEST - Google][] |      |      |      |
+| 03/03 |  01  | [TEST - Google][] |      | [436 - 衛生紙之亂][] |      |
 
 
 [TEST - Google]: https://www.google.com.tw/
+[衛生紙之亂]: https://neoj.sprout.tw/problem/436/
