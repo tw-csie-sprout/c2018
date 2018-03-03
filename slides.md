@@ -5,7 +5,7 @@
 | ------ | ------------------------- | ----------------------------- |
 | 課程介紹   | [課程介紹][taipei-intro]      | [Introduction][hsinchu-intro]
 | 背景知識   | [背景知識][taipei-background] | [新手上路][hsinchu-background]
-| IDE    | [Dev-C++][taipei-devcpp] [Dev-C++ 載點][devcpp-download]  | [Dev-C++][hsinchu-devcpp]
+| IDE    | [Dev-C++][taipei-devcpp] ([Dev-C++ 載點][devcpp-download])  | [Dev-C++][hsinchu-devcpp]
 | 表達式與變數 | [表達式與變數][taipei-expr]     | [表達式與變數][hsinchu-expr]
 [taipei-intro]: https://goo.gl/E9mTqn
 [taipei-devcpp]: https://goo.gl/omAHvN
