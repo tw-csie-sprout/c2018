@@ -18,3 +18,13 @@
 [hsinchu-devcpp]: https://hackmd.io/p/SJc__yPuz#/
 [hsinchu-expr]: https://drive.google.com/open?id=1Cda6mLHYyYU79MtkKsHZ4kSA_z-HyThC
 [devcpp-download]: https://www.csie.ntu.edu.tw/~b06902029/devc.7z
+
+## 第二週投影片 03/10
+| 主題         | 北區                      | 竹區                           |
+| ------------ | ------------------------- | ------------------------------ |
+| if else     | | 
+| while     |  | [while迴圈][H-while]
+| 一維陣列   |  | [1D array][H-1D-array]
+
+[H-while]:https://drive.google.com/open?id=1U0d5AcLLLZCsfHU1k-kZHg6H98lfwKY7
+[H-1D-array]:https://drive.google.com/open?id=1O_oOpFO0Qujb057ybiYY6e-HfP4djJxu
