@@ -18,3 +18,10 @@
 [hsinchu-devcpp]: https://hackmd.io/p/SJc__yPuz#/
 [hsinchu-expr]: https://drive.google.com/open?id=1Cda6mLHYyYU79MtkKsHZ4kSA_z-HyThC
 [devcpp-download]: https://www.csie.ntu.edu.tw/~b06902029/devc.7z
+
+## 第二週投影片 03/04
+| 主題      | 北區                         | 竹區                           |
+| ------------ | ---------------------------- | ----------------------------- |
+| if else |  | [if else][hsinchu-if-else]   |
+
+[hsinchu-if-else]: https://drive.google.com/open?id=11QoV8rxyT8XTU2RW22xE4Iz0VCRBWV9s
