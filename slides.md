@@ -8,13 +8,17 @@
 | IDE          | [Dev-C++][taipei-devcpp] ([Dev-C++ 載點][devcpp-download]) | [Dev-C++][hsinchu-devcpp]
 | 表達式與變數 | [表達式與變數][taipei-expr] | [表達式與變數][hsinchu-expr]
 
-[taipei-intro]: https://goo.gl/E9mTqn
-[taipei-devcpp]: https://goo.gl/omAHvN
-[taipei-background]: https://goo.gl/Mn3mBY
-[taipei-expr]: https://goo.gl/2bimxh
+## 第二週投影片 03/10
+| 主題         | 北區                      | 竹區                           |
+| ------------ | ------------------------- | ------------------------------ |
+| 條件式       | [if-else][taipei-if-else] | [if-else][hsinchu-if-else]
+| 迴圈(while)  | [while][taipei-while]     | [while][hsinchu-while]
+| 陣列         | [array][taipei-array]     | [array][hsinchu-array]
 
-[hsinchu-intro]: https://drive.google.com/open?id=1tLjKO_b8DBOFqXqBx7D6jImIiRpxJ8To
-[hsinchu-background]: https://hackmd.io/p/B1Bxjd8uM#/
-[hsinchu-devcpp]: https://hackmd.io/p/SJc__yPuz#/
-[hsinchu-expr]: https://drive.google.com/open?id=1Cda6mLHYyYU79MtkKsHZ4kSA_z-HyThC
-[devcpp-download]: https://www.csie.ntu.edu.tw/~b06902029/devc.7z
+[taipei-if-else]: http://slides.com/wjpei/sprout2018_if_else/fullscreen
+[taipei-while]: https://www.csie.ntu.edu.tw/~b05902041/sprouts/reveal.js/?deck=while_2018
+[taipei-array]: https://www.csie.ntu.edu.tw/~b05902041/sprouts/reveal.js/?deck=array_2018
+
+[hsinchu-if-else]: https://drive.google.com/open?id=11QoV8rxyT8XTU2RW22xE4Iz0VCRBWV9s
+[hsinchu-while]: https://drive.google.com/open?id=1U0d5AcLLLZCsfHU1k-kZHg6H98lfwKY7
+[hsinchu-array]: https://drive.google.com/open?id=1O_oOpFO0Qujb057ybiYY6e-HfP4djJxu

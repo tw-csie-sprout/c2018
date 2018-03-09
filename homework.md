@@ -5,10 +5,15 @@
 |  日期 | 週次 | 上課練習 | 勾選作業 | 加分題 | 檢討 |
 | :---: | :--: | :------- | :------- | :----- | :--- |
 | 03/03 |  01  | [12 - 交換測試][12]、[289 - 福祿猴的反敗][289]、[666 - 你的名子][666] | [436 - 衛生紙之亂][436] | | |
+| 03/10 |  02  | [208 - 季節判斷][208]、[107 - 階乘？][107]、[294 - 我愛零分][294] | [602 - 小蘋果][602] | | |
 
 
 [12]: https://neoj.sprout.tw/problem/12/
+[107]: https://neoj.sprout.tw/problem/107/
 [289]: https://neoj.sprout.tw/problem/289/
+[208]: https://neoj.sprout.tw/problem/208/
+[294]: https://neoj.sprout.tw/problem/294/
 [436]: https://neoj.sprout.tw/problem/436/
+[602]: https://neoj.sprout.tw/problem/602/
 [666]: https://neoj.sprout.tw/problem/666/
 
