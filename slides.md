@@ -22,9 +22,10 @@
 ## 第二週投影片 03/10
 | 主題         | 北區                      | 竹區                           |
 | ------------ | ------------------------- | ------------------------------ |
-| if else     | | 
+| if else     | | [if else][H-if-else]
 | while     |  | [while迴圈][H-while]
 | 一維陣列   |  | [1D array][H-1D-array]
 
+[H-if-else]: https://drive.google.com/open?id=11QoV8rxyT8XTU2RW22xE4Iz0VCRBWV9s
 [H-while]:https://drive.google.com/open?id=1U0d5AcLLLZCsfHU1k-kZHg6H98lfwKY7
 [H-1D-array]:https://drive.google.com/open?id=1O_oOpFO0Qujb057ybiYY6e-HfP4djJxu
