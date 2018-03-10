@@ -23,14 +23,14 @@
 ## 第二週投影片 03/10
 | 主題         | 北區                      | 竹區                           |
 | ------------ | ------------------------- | ------------------------------ |
-| 條件式       | [if-else][taipei-if-else] | [if-else][hsinchu-if-else]
-| 迴圈(while)  | [while][taipei-while]     | [while][hsinchu-while]
-| 陣列         | [array][taipei-array]     | [array][hsinchu-array]
+| 條件式       | [if else][taipei-if-else] | [if else][H-if-else]
+| 迴圈(while)  | [while][taipei-while]     | [while迴圈][H-while]
+| 陣列         | [1D array][taipei-array]     | [1D array][H-1D-array]
 
 [taipei-if-else]: http://slides.com/wjpei/sprout2018_if_else/fullscreen
 [taipei-while]: https://www.csie.ntu.edu.tw/~b05902041/sprouts/reveal.js/?deck=while_2018
 [taipei-array]: https://www.csie.ntu.edu.tw/~b05902041/sprouts/reveal.js/?deck=array_2018
 
-[hsinchu-if-else]: https://drive.google.com/open?id=11QoV8rxyT8XTU2RW22xE4Iz0VCRBWV9s
-[hsinchu-while]: https://drive.google.com/open?id=1U0d5AcLLLZCsfHU1k-kZHg6H98lfwKY7
-[hsinchu-array]: https://drive.google.com/open?id=1O_oOpFO0Qujb057ybiYY6e-HfP4djJxu
+[H-if-else]: https://drive.google.com/open?id=11QoV8rxyT8XTU2RW22xE4Iz0VCRBWV9s
+[H-while]:https://drive.google.com/open?id=1U0d5AcLLLZCsfHU1k-kZHg6H98lfwKY7
+[H-1D-array]:https://drive.google.com/open?id=1O_oOpFO0Qujb057ybiYY6e-HfP4djJxu
