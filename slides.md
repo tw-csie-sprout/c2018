@@ -28,8 +28,8 @@
 | 陣列         | [1D array][taipei-array]     | [1D array][H-1D-array]
 
 [taipei-if-else]: http://slides.com/wjpei/sprout2018_if_else/fullscreen
-[taipei-while]: https://www.csie.ntu.edu.tw/~b05902041/sprouts/reveal.js/?deck=while_2018
-[taipei-array]: https://www.csie.ntu.edu.tw/~b05902041/sprouts/reveal.js/?deck=array_2018
+[taipei-while]: https://drive.google.com/open?id=1nDGWeDTmms3L55jBw2oJpJrAPzIUUsYB
+[taipei-array]: https://drive.google.com/open?id=1KjkicKo-x87McBR7MJx-4aZFkOjLU2bc
 
 [H-if-else]: https://drive.google.com/open?id=11QoV8rxyT8XTU2RW22xE4Iz0VCRBWV9s
 [H-while]:https://drive.google.com/open?id=1U0d5AcLLLZCsfHU1k-kZHg6H98lfwKY7
