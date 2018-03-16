@@ -34,3 +34,11 @@
 [H-if-else]: https://drive.google.com/open?id=11QoV8rxyT8XTU2RW22xE4Iz0VCRBWV9s
 [H-while]:https://drive.google.com/open?id=1U0d5AcLLLZCsfHU1k-kZHg6H98lfwKY7
 [H-1D-array]:https://drive.google.com/open?id=1O_oOpFO0Qujb057ybiYY6e-HfP4djJxu
+
+## 第三週投影片 03/17
+| 主題         | 北區                      | 竹區                           |
+| ------------ | ------------------------- | ------------------------------ |
+| for + 控制流程|    | [for + 控制流程][H-for-break-continue]
+
+
+[H-for-break-continue]: https://drive.google.com/file/d/1m6zU9x4oA64IKOzCkb-lF64pZa8ab07X/view
