@@ -38,7 +38,7 @@
 ## 第三週投影片 03/17
 | 主題         | 北區                      | 竹區                           |
 | ------------ | ------------------------- | ------------------------------ |
-| for + 控制流程|    | [for + 控制流程][H-for-break-continue]
+| for + 控制流程| [for + 控制流程][taipei-for-break-continue]   | [for + 控制流程][H-for-break-continue]
 
-
+[taipei-for-break-continue]: http://slides.com/cathycinna/deck-1/fullscreen
 [H-for-break-continue]: https://drive.google.com/file/d/1m6zU9x4oA64IKOzCkb-lF64pZa8ab07X/view
