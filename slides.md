@@ -39,8 +39,11 @@
 | 主題           | 北區                      | 竹區                           |
 | -------------- | ------------------------- | ------------------------------ |
 | for + 控制流程 | [for + 控制流程][taipei-for-break-continue]   | [for + 控制流程][H-for-break-continue]
-| 多維陣列、字元 | | [多維陣列、字元][H-multiarray-char]
+| 多維陣列       | [多維陣列][taipei-multiarray]| [多維陣列、字元][H-multiarray-char]
+| 字元           | [字元][taipei-char]         | 
 
 [taipei-for-break-continue]: http://slides.com/cathycinna/deck-1/fullscreen
+[taipei-multiarray]: https://drive.google.com/open?id=1YoXS_wIYReHEtxR1LZamjnkckPspTF4y
+[taipei-char]: https://drive.google.com/open?id=1XypAxiaIawwruXvnEhXPH5gSTX-z2wQ7
 [H-for-break-continue]: https://drive.google.com/file/d/1m6zU9x4oA64IKOzCkb-lF64pZa8ab07X/view
 [H-multiarray-char]: https://hackmd.io/p/SycCTxtFM#/
