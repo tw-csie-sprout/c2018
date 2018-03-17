@@ -36,9 +36,11 @@
 [H-1D-array]:https://drive.google.com/open?id=1O_oOpFO0Qujb057ybiYY6e-HfP4djJxu
 
 ## 第三週投影片 03/17
-| 主題         | 北區                      | 竹區                           |
-| ------------ | ------------------------- | ------------------------------ |
-| for + 控制流程| [for + 控制流程][taipei-for-break-continue]   | [for + 控制流程][H-for-break-continue]
+| 主題           | 北區                      | 竹區                           |
+| -------------- | ------------------------- | ------------------------------ |
+| for + 控制流程 | [for + 控制流程][taipei-for-break-continue]   | [for + 控制流程][H-for-break-continue]
+| 多維陣列、字元 | | [多維陣列、字元][H-multiarray-char]
 
 [taipei-for-break-continue]: http://slides.com/cathycinna/deck-1/fullscreen
 [H-for-break-continue]: https://drive.google.com/file/d/1m6zU9x4oA64IKOzCkb-lF64pZa8ab07X/view
+[H-multiarray-char]: https://hackmd.io/p/SycCTxtFM#/
