@@ -47,3 +47,12 @@
 [taipei-char]: https://drive.google.com/open?id=1XypAxiaIawwruXvnEhXPH5gSTX-z2wQ7
 [H-for-break-continue]: https://drive.google.com/file/d/1m6zU9x4oA64IKOzCkb-lF64pZa8ab07X/view
 [H-multiarray-char]: https://hackmd.io/p/SycCTxtFM#/
+
+
+## 第四週投影片 03/24
+| 主題           | 北區                      | 竹區                           |
+| -------------- | ------------------------- | ------------------------------ |
+| 函數呼叫+字串(C-style, 常用函式) |            | [函數呼叫、字串][H-function-string]
+| 資料型態與轉型   |                           | 
+
+[H-function-string]: https://drive.google.com/open?id=1QgwxazlXqL0l5wyjn5vJqY5BqTFjgiG5
