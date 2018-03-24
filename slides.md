@@ -53,6 +53,9 @@
 | 主題           | 北區                      | 竹區                           |
 | -------------- | ------------------------- | ------------------------------ |
 | 函數呼叫+字串(C-style, 常用函式) |            | [函數呼叫、字串][H-function-string]
-| 資料型態與轉型   |                           | 
+| 資料型態與轉型   | [資料型態與轉型][taipei-data-type] | 
+| 亂數   | [random][taipei-random] | 
 
 [H-function-string]: https://drive.google.com/open?id=1QgwxazlXqL0l5wyjn5vJqY5BqTFjgiG5
+[taipei-data-type]: https://drive.google.com/open?id=1Qla8qXMCP_eTI49oveqt1_tr9RfCDbN_
+[taipei-random]: https://drive.google.com/open?id=1zeH6-1fbisLXX9kVYgnmbOPCVQ_PYkWU
