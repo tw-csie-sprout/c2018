@@ -61,3 +61,14 @@
 [taipei-random]: https://drive.google.com/open?id=1zeH6-1fbisLXX9kVYgnmbOPCVQ_PYkWU
 [Taipei-func]: https://www.csie.ntu.edu.tw/~b04902031/sprout_0324.html#1
 [H-data-type]: https://drive.google.com/open?id=1UbFTBMdOqyNbv1iysudZXuSftoEP9ZjX
+
+##第四周投影片 04/01
+| 主題           | 北區                      | 竹區                           |
+| -------------- | ------------------------- | ------------------------------ |
+|iofstream| |[iofstream][H-iofstream]
+|字串| |[字串][H-string]
+|struct| |[struct][H-struct]
+
+[H-iofstream]:https://drive.google.com/open?id=1L59-hjVgjeAiYiGagk5Jwn7xvLYhFZE9
+[H-string]:https://drive.google.com/open?id=1Ui1UmpRTUeM6n06IHzJRooL-VG7Vi3mL
+[H-struct]:https://drive.google.com/open?id=1PEn7SErV1FDoZpOebHYuGvJUQVSjkFNT
