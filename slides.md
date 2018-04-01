@@ -65,10 +65,12 @@
 ## 第五週投影片 04/01
 | 主題           | 北區                      | 竹區                           |
 | -------------- | ------------------------- | ------------------------------ |
-|iofstream| |[iofstream][H-iofstream]
-|字串| |[字串][H-string]
+|iofstream| [stream][T-stream] |[iofstream][H-iofstream]
+|字串| [string][T-string] |[字串][H-string]
 |struct| |[struct][H-struct]
 
 [H-iofstream]:https://drive.google.com/open?id=1L59-hjVgjeAiYiGagk5Jwn7xvLYhFZE9
 [H-string]:https://drive.google.com/open?id=1Ui1UmpRTUeM6n06IHzJRooL-VG7Vi3mL
 [H-struct]:https://drive.google.com/open?id=1PEn7SErV1FDoZpOebHYuGvJUQVSjkFNT
+[T-stream]:https://drive.google.com/open?id=1f145W_ap5Be0sa5vxfrVLKH60xm8sM2u
+[T-string]:https://drive.google.com/open?id=1ao1JClwrxZSy7TLsLkldBSSnO2pf0MGz
