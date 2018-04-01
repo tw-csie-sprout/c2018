@@ -68,9 +68,14 @@
 |iofstream| [stream][T-stream] |[iofstream][H-iofstream]
 |字串| [string][T-string] |[字串][H-string]
 |struct| |[struct][H-struct]
+|上課影片| |[上課內容][H-vedio]
+|補充:getline函式| |[getline函式][H-getline]
+
 
 [H-iofstream]:https://drive.google.com/open?id=1L59-hjVgjeAiYiGagk5Jwn7xvLYhFZE9
 [H-string]:https://drive.google.com/open?id=1Ui1UmpRTUeM6n06IHzJRooL-VG7Vi3mL
 [H-struct]:https://drive.google.com/open?id=1PEn7SErV1FDoZpOebHYuGvJUQVSjkFNT
 [T-stream]:https://drive.google.com/open?id=1f145W_ap5Be0sa5vxfrVLKH60xm8sM2u
 [T-string]:https://drive.google.com/open?id=1ao1JClwrxZSy7TLsLkldBSSnO2pf0MGz
+[H-vedio]:https://youtu.be/ACZ_ZYuyuRs
+[H-getline]:https://youtu.be/EP8nAYdck8c
