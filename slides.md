@@ -89,5 +89,5 @@
 
 
 [taipei-qualifiers]: https://drive.google.com/open?id=0B153He1E1uxMX3o2Zk9IZnRJQUk
-[H-fuction]: https://hackmd.io/p/ByRRkX9sG#/
+[H-function]: https://hackmd.io/p/ByRRkX9sG#/
 [H-scope]: https://drive.google.com/open?id=1PaSSHo7lP5bB1PWgQ52TjziE3uDj08M6
