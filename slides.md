@@ -79,3 +79,15 @@
 [T-string]:https://drive.google.com/open?id=1ao1JClwrxZSy7TLsLkldBSSnO2pf0MGz
 [H-vedio]:https://youtu.be/ACZ_ZYuyuRs
 [H-getline]:https://youtu.be/EP8nAYdck8c
+
+## 第六週投影片 04/14
+| 主題           | 北區                      | 竹區                           |
+| -------------- | ------------------------- | ------------------------------ |
+|修飾子||[修飾子][taipei-qualifiers]|
+|function||[function][H-function]|
+|scope||[scope、生命週期][H-scope]|
+
+
+[taipei-qualifiers]: https://drive.google.com/open?id=0B153He1E1uxMX3o2Zk9IZnRJQUk
+[H-fuction]: https://hackmd.io/p/ByRRkX9sG#/
+[H-scope]: https://drive.google.com/open?id=1PaSSHo7lP5bB1PWgQ52TjziE3uDj08M6
