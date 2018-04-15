@@ -9,7 +9,7 @@
 | 03/17 |  03  | [203 - 終極倒數][203]、[214 - 踩地雷][214]       | [437 - 漆pupu][437] | [438 - 銀河系を征服してみせる！][438]            | [week03][week03] |
 | 03/24 |  04  |                                          |                    | [439 - 轉職大法師][439]、[440 - 分組活動][440] |[week04][week04]  |
 | 03/31 |  05  |                                          | [366 - 電話銷售員][366]、[2217 - Yog-Sothoth][2217] |                                      | [week05][week05] |
-| 04/14 |  07  |                                          | [224 - 超級GCD][224] |                                                                     | | 
+| 04/14 |  07  | [225-3n+1 Problem (II)][225] | [224 - 超級GCD][224] |                                                                     | | 
 
 [12]: https://neoj.sprout.tw/problem/12/
 [107]: https://neoj.sprout.tw/problem/107/
@@ -17,6 +17,7 @@
 [208]: https://neoj.sprout.tw/problem/208/
 [214]: https://neoj.sprout.tw/problem/214/
 [224]: https://neoj.sprout.tw/problem/224/
+[225]: https://neoj.sprout.tw/problem/225/
 [289]: https://neoj.sprout.tw/problem/289/
 [294]: https://neoj.sprout.tw/problem/294/
 [366]: https://neoj.sprout.tw/problem/366/
