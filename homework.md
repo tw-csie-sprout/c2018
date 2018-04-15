@@ -7,7 +7,7 @@
 | 03/03 |  01  | [12 - 交換測試][12]、[289 - 福祿猴的反敗][289]、[666 - 你的名子][666] | [436 - 衛生紙之亂][436] |                                      | [week01][week01] |
 | 03/10 |  02  | [208 - 季節判斷][208]、[107 - 階乘？][107]、[294 - 我愛零分][294] | [602 - 小蘋果][602]   |                                      | [week02][week02] |
 | 03/17 |  03  | [203 - 終極倒數][203]、[214 - 踩地雷][214]       | [437 - 漆pupu][437] | [438 - 銀河系を征服してみせる！][438]            | [week03][week03] |
-| 03/24 |  04  |                                          |                    | [439 - 轉職大法師][439]、[440 - 分組活動][440] |                  |
+| 03/24 |  04  |                                          |                    | [439 - 轉職大法師][439]、[440 - 分組活動][440] |[week04][week04]  |
 | 03/31 |  05  |                                          | [366 - 電話銷售員][366]、[2217 - Yog-Sothoth][2217] |                                      |                  |
 
 
@@ -31,3 +31,4 @@
 [week01]: https://www.csie.ntu.edu.tw/~b04902031/436.html#1
 [week02]: https://drive.google.com/open?id=12zW8sLnYmm9gplnc7kx2MK1WZGOm6m3-
 [week03]: http://slides.com/wjpei/sprout2018_if_else-6/fullscreen
+[week04]: https://drive.google.com/file/d/1CduK4ZFSDRg_yel8UlK8NrpqlpKaEcd3/view?usp=sharing
