@@ -14,7 +14,7 @@
 
 **請注意：若該階段請假超過三次，或無故缺席一次，不論其他成績皆將失去獲得任何證書之資格。**
 
-如欲請假，請務必填寫[請假表單](https://docs.google.com/forms/d/1ky9lmZQCxjyDkDcRYhlYMY0TrNeCQoBSqozwPq1eBFw)
+如欲請假，請務必填寫[請假表單](https://goo.gl/forms/Aetx1VRE9mWhCNhG2)
 
 需要注意的是計算出來的原始分數並**不**對應到最終成績，最終成績（傑出結業／結業／參加／未達及格分數）將依照課程整體同學的表現狀況決定。
 
