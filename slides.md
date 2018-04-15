@@ -84,10 +84,11 @@
 | 主題       | 北區               | 竹區                     |
 | -------- | ---------------- | ---------------------- |
 | 修飾子      | 同竹區              | [修飾子][T-qualifiers]    |
-| function |                  | [function][H-function] |
+| function | [function][func-taipei]                 | [function][H-function] |
 | scope    | [scope][T-scope] | [scope、生命週期][H-scope]  |
 
 [T-qualifiers]: https://drive.google.com/open?id=0B153He1E1uxMX3o2Zk9IZnRJQUk
 [T-scope]: https://drive.google.com/open?id=1lqulz-JLZXJWhjRQElJ29Fi9VEYECGli
 [H-function]: https://hackmd.io/p/ByRRkX9sG#/
 [H-scope]: https://drive.google.com/open?id=1PaSSHo7lP5bB1PWgQ52TjziE3uDj08M6
+[func-taipei]: https://www.csie.ntu.edu.tw/~b04902031/sprout_0414.html
