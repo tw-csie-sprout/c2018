@@ -11,6 +11,14 @@
 | 03/31 |  05  |                                          | [366 - 電話銷售員][366]、[2217 - Yog-Sothoth][2217] |                                      | [week05][week05] |
 | 04/14 |  07  | [225-3n+1 Problem (II)][225] | [224 - 超級GCD][224] |                                                                     | | 
 
+## 去年第一階段考題
+| 題號 |  |
+| :--: | :--: |
+| pA | [pA - 我才不是 Elite][7123] |
+| pB | [pB - 算計的巨人][7124] |
+| pC | [pC - 逃避責任][7125] |
+| pD | [pD - f91][7126] |
+
 [12]: https://neoj.sprout.tw/problem/12/
 [107]: https://neoj.sprout.tw/problem/107/
 [203]: https://neoj.sprout.tw/problem/203/
@@ -29,6 +37,11 @@
 [602]: https://neoj.sprout.tw/problem/602/
 [666]: https://neoj.sprout.tw/problem/666/
 [2217]: https://neoj.sprout.tw/problem/2217/
+
+[7123]: https://neoj.sprout.tw/problem/7123/
+[7124]: https://neoj.sprout.tw/problem/7124/
+[7125]: https://neoj.sprout.tw/problem/7125/
+[7126]: https://neoj.sprout.tw/problem/7126/
 
 [week01]: https://www.csie.ntu.edu.tw/~b04902031/436.html#1
 [week02]: https://drive.google.com/open?id=12zW8sLnYmm9gplnc7kx2MK1WZGOm6m3-
