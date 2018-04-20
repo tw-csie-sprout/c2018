@@ -92,3 +92,10 @@
 [H-function]: https://hackmd.io/p/ByRRkX9sG#/
 [H-scope]: https://drive.google.com/open?id=1PaSSHo7lP5bB1PWgQ52TjziE3uDj08M6
 [func-taipei]: https://www.csie.ntu.edu.tw/~b04902031/sprout_0414.html
+
+## 第七週投影片 04/20
+| 主題       | 北區               | 竹區                     |
+| -------- | ---------------- | ---------------------- |
+| 遞迴      |             | [recursive][T-recursive]    |
+
+[T-recursive]: https://drive.google.com/open?id=1rRXgTnFzhmZgP8Y1bcaWeVwv3z6VN_bz
