@@ -14,7 +14,6 @@
 ## 去年第一階段考題
 | 題號 |  |
 | :--: | :--: |
-| pA | [pA - 我才不是 Elite][7123] |
 | pB | [pB - 算計的巨人][7124] |
 | pC | [pC - 逃避責任][7125] |
 | pD | [pD - f91][7126] |
@@ -38,7 +37,6 @@
 [666]: https://neoj.sprout.tw/problem/666/
 [2217]: https://neoj.sprout.tw/problem/2217/
 
-[7123]: https://neoj.sprout.tw/problem/7123/
 [7124]: https://neoj.sprout.tw/problem/7124/
 [7125]: https://neoj.sprout.tw/problem/7125/
 [7126]: https://neoj.sprout.tw/problem/7126/
