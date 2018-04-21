@@ -25,7 +25,7 @@
 | ------------ | ------------------------- | ------------------------------ |
 | 條件式       | [if else][taipei-if-else] | [if else][H-if-else]
 | 迴圈(while)  | [while][taipei-while]     | [while迴圈][H-while]
-| 陣列         | [1D array][taipei-array]     | [1D array][H-1D-array]
+| 陣列         | [1D array][taipei-array]  | [1D array][H-1D-array]
 
 [taipei-if-else]: http://slides.com/wjpei/sprout2018_if_else/fullscreen
 [taipei-while]: https://drive.google.com/open?id=1nDGWeDTmms3L55jBw2oJpJrAPzIUUsYB
@@ -48,7 +48,6 @@
 [H-for-break-continue]: https://drive.google.com/file/d/1m6zU9x4oA64IKOzCkb-lF64pZa8ab07X/view
 [H-multiarray-char]: https://hackmd.io/p/SycCTxtFM#/
 
-
 ## 第四週投影片 03/24
 | 主題           | 北區                      | 竹區                           |
 | -------------- | ------------------------- | ------------------------------ |
@@ -68,7 +67,7 @@
 |iofstream| [stream][T-stream] |[iofstream][H-iofstream]
 |字串| [string][T-string] |[字串][H-string]
 |struct| |[struct][H-struct]
-|上課影片| |[上課內容][H-vedio]
+|上課影片| |[上課內容][H-video]
 |補充:getline函式| |[getline函式][H-getline]
 
 
@@ -77,15 +76,15 @@
 [H-struct]:https://drive.google.com/open?id=1PEn7SErV1FDoZpOebHYuGvJUQVSjkFNT
 [T-stream]:https://drive.google.com/open?id=1f145W_ap5Be0sa5vxfrVLKH60xm8sM2u
 [T-string]:https://drive.google.com/open?id=1ao1JClwrxZSy7TLsLkldBSSnO2pf0MGz
-[H-vedio]:https://youtu.be/ACZ_ZYuyuRs
+[H-video]:https://youtu.be/ACZ_ZYuyuRs
 [H-getline]:https://youtu.be/EP8nAYdck8c
 
 ## 第六週投影片 04/14
-| 主題       | 北區               | 竹區                     |
-| -------- | ---------------- | ---------------------- |
-| 修飾子      | 同竹區              | [修飾子][T-qualifiers]    |
-| function | [function][func-taipei]                 | [function][H-function] |
-| scope    | [scope][T-scope] | [scope、生命週期][H-scope]  |
+| 主題       | 北區                  | 竹區                     |
+| -------- | ----------------------- | ------------------------ |
+| 修飾子   | 同竹區                  | [修飾子][T-qualifiers]
+| function | [function][func-taipei] | [function][H-function]
+| scope    | [scope][T-scope]        | [scope、生命週期][H-scope]
 
 [T-qualifiers]: https://drive.google.com/open?id=0B153He1E1uxMX3o2Zk9IZnRJQUk
 [T-scope]: https://drive.google.com/open?id=1lqulz-JLZXJWhjRQElJ29Fi9VEYECGli
@@ -94,8 +93,10 @@
 [func-taipei]: https://www.csie.ntu.edu.tw/~b04902031/sprout_0414.html
 
 ## 第七週投影片 04/20
-| 主題       | 北區               | 竹區                     |
+| 主題       | 北區           | 竹區                   |
 | -------- | ---------------- | ---------------------- |
-| 遞迴      |             | [recursive][T-recursive]    |
+| 遞迴     | | [recursive][H-recursive]
+| 課程回顧 | | [課程回顧][H-review1]
 
-[T-recursive]: https://drive.google.com/open?id=1rRXgTnFzhmZgP8Y1bcaWeVwv3z6VN_bz
+[H-recursive]: https://drive.google.com/open?id=1rRXgTnFzhmZgP8Y1bcaWeVwv3z6VN_bz
+[H-review1]: https://hackmd.io/p/S1aDttwhM#/
