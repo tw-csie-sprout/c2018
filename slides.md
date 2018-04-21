@@ -79,7 +79,7 @@
 [H-video]:https://youtu.be/ACZ_ZYuyuRs
 [H-getline]:https://youtu.be/EP8nAYdck8c
 
-## 第六週投影片 04/14
+## 第七週投影片 04/14
 | 主題       | 北區                  | 竹區                     |
 | -------- | ----------------------- | ------------------------ |
 | 修飾子   | 同竹區                  | [修飾子][T-qualifiers]
@@ -92,7 +92,7 @@
 [H-scope]: https://drive.google.com/open?id=1PaSSHo7lP5bB1PWgQ52TjziE3uDj08M6
 [func-taipei]: https://www.csie.ntu.edu.tw/~b04902031/sprout_0414.html
 
-## 第七週投影片 04/21
+## 第八週投影片 04/21
 | 主題       | 北區                   | 竹區                   |
 | -------- | ------------------------ | ---------------------- |
 | 遞迴     | [recursive][T-recursive] | [recursive][H-recursive]

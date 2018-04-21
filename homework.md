@@ -9,7 +9,8 @@
 | 03/17 |  03  | [203 - 終極倒數][203]、[214 - 踩地雷][214]       | [437 - 漆pupu][437] | [438 - 銀河系を征服してみせる！][438]            | [week03][week03] |
 | 03/24 |  04  |                                          |                    | [439 - 轉職大法師][439]、[440 - 分組活動][440] |[week04][week04]  |
 | 03/31 |  05  |                                          | [366 - 電話銷售員][366]、[2217 - Yog-Sothoth][2217] |                                      | [week05][week05] |
-| 04/14 |  07  | [225-3n+1 Problem (II)][225] | [224 - 超級GCD][224] |                                                                     | | 
+| 04/14 |  07  | [225-3n+1 Problem (II)][225] | [224 - 超級GCD][224] |                                                                     | | [week07][week07] |
+| 04/21 |  08  |   | [443 - 天天爬樓梯][443] |                                                                     | | |
 
 ## 去年第一階段考題
 | 題號 |  |
@@ -33,6 +34,7 @@
 [438]: https://neoj.sprout.tw/problem/438/
 [439]: https://neoj.sprout.tw/problem/439/
 [440]: https://neoj.sprout.tw/problem/440/
+[443]: https://neoj.sprout.tw/problem/443/
 [602]: https://neoj.sprout.tw/problem/602/
 [666]: https://neoj.sprout.tw/problem/666/
 [2217]: https://neoj.sprout.tw/problem/2217/
@@ -46,3 +48,4 @@
 [week03]: http://slides.com/wjpei/sprout2018_if_else-6/fullscreen
 [week04]: https://drive.google.com/file/d/1CduK4ZFSDRg_yel8UlK8NrpqlpKaEcd3/view?usp=sharing
 [week05]: https://drive.google.com/open?id=1nrolLwCEZ6eYGHbyDeQeqB6Ei-pc0aEQ
+[week07]: https://drive.google.com/open?id=1MF7VRmHnVTMxL9ubdXJKWWrcp6BPLNxm
