@@ -92,11 +92,12 @@
 [H-scope]: https://drive.google.com/open?id=1PaSSHo7lP5bB1PWgQ52TjziE3uDj08M6
 [func-taipei]: https://www.csie.ntu.edu.tw/~b04902031/sprout_0414.html
 
-## 第七週投影片 04/20
-| 主題       | 北區           | 竹區                   |
-| -------- | ---------------- | ---------------------- |
-| 遞迴     | | [recursive][H-recursive]
+## 第七週投影片 04/21
+| 主題       | 北區                   | 竹區                   |
+| -------- | ------------------------ | ---------------------- |
+| 遞迴     | [recursive][T-recursive] | [recursive][H-recursive]
 | 課程回顧 | | [課程回顧][H-review1]
 
+[T-recursive]: https://slides.com/austinlaurice/deck-7#/
 [H-recursive]: https://drive.google.com/open?id=1rRXgTnFzhmZgP8Y1bcaWeVwv3z6VN_bz
 [H-review1]: https://hackmd.io/p/S1aDttwhM#/
