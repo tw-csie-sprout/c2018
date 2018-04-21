@@ -96,8 +96,9 @@
 | 主題       | 北區                   | 竹區                   |
 | -------- | ------------------------ | ---------------------- |
 | 遞迴     | [recursive][T-recursive] | [recursive][H-recursive]
-| 課程回顧 | | [課程回顧][H-review1]
+| 課程回顧 |[課程回顧][T-review] | [課程回顧][H-review1]
 
 [T-recursive]: https://slides.com/austinlaurice/deck-7#/
 [H-recursive]: https://drive.google.com/open?id=1rRXgTnFzhmZgP8Y1bcaWeVwv3z6VN_bz
 [H-review1]: https://hackmd.io/p/S1aDttwhM#/
+[T-review]: https://www.csie.ntu.edu.tw/~b04902031/sprout_0421.html#1
