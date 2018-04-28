@@ -17,7 +17,8 @@
 [hsinchu-background]: https://hackmd.io/p/B1Bxjd8uM#/
 [hsinchu-devcpp]: https://hackmd.io/p/SJc__yPuz#/
 [hsinchu-expr]: https://drive.google.com/open?id=1Cda6mLHYyYU79MtkKsHZ4kSA_z-HyThC
-[devcpp-download]: https://www.csie.ntu.edu.tw/~b06902029/devc.7z
+<!-- [devcpp-download]: https://www.csie.ntu.edu.tw/~b06902029/devc.7z -->
+[devcpp-download]: http://oasis1.csie.ntu.edu.tw:56789
 
 
 ## 第二週投影片 03/10
