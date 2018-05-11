@@ -103,3 +103,11 @@
 [H-recursive]: https://drive.google.com/open?id=1rRXgTnFzhmZgP8Y1bcaWeVwv3z6VN_bz
 [H-review1]: https://hackmd.io/p/S1aDttwhM#/
 [T-review]: https://www.csie.ntu.edu.tw/~b04902031/sprout_0421.html#1
+
+## 第十一週投影片 05/11
+
+| 主題       | 北區                  | 竹區                     |
+| -------- | ----------------------- | ------------------------ |
+| 複雜度   |  [complexity][T-complexity]                |
+
+[T-complexity]: https://drive.google.com/open?id=1VuRtXRbKCOrV0mk55UfR7auK6K_T5jnu
