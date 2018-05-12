@@ -65,7 +65,7 @@
 ## 第五週投影片 04/01
 | 主題           | 北區                      | 竹區                           |
 | -------------- | ------------------------- | ------------------------------ |
-|iofstream| [stream][T-stream] |[iofstream][H-iofstream]
+|iofstream| [stream][T-stream]| [iofstream][H-iofstream]
 |字串| [string][T-string] |[字串][H-string]
 |struct| |[struct][H-struct]
 |上課影片| |[上課內容][H-video]
@@ -108,9 +108,11 @@
 
 | 主題       | 北區                  | 竹區                     |
 | -------- | ----------------------- | ------------------------ |
-| 複雜度   |  [complexity][T-complexity]                |
-| Sort    | [sort、二分搜][T-sort]| [sort][H-sort]
+| 複雜度   |  [complexity][T-complexity] | [複雜度][H-complexity] |
+| Sort    | [sort、二分搜][T-sort]| [sort][H-sort]、[二分搜][H-bsearch] |
 
 [T-complexity]: https://drive.google.com/open?id=1VuRtXRbKCOrV0mk55UfR7auK6K_T5jnu
 [T-sort]:https://www.csie.ntu.edu.tw/~b04902031/sprout_0512.html
 [H-sort]:https://hackmd.io/p/ByxvL2gJCM#/
+[H-complexity]:https://drive.google.com/open?id=19vRbbNt65MmtskKuSDv8EypQc1prq05u
+[H-bsearch]:https://drive.google.com/open?id=16vpZRoBGPpDfwv8M1EegxldAUmeQnHvp
