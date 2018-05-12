@@ -11,7 +11,7 @@
 | 03/31 |  05  |                                          | [366 - 電話銷售員][366]、[2217 - Yog-Sothoth][2217] |                                      | [week05][week05] |
 | 04/14 |  07  | [225-3n+1 Problem (II)][225] | [224 - 超級GCD][224] |                                                                     | [week07][week07] |
 | 04/21 |  08  |                                                         | [443 - 天天爬樓梯][443] |                                         |                    | 
-| 05/12 |  09  |                                          | [67 - 妹妹，我的蛋蛋又大又硬][67] |                                  |                    |
+| 05/12 |  09  | [369 - 書瑾與他的泡泡們][369]| [236 - 榜單排序][236]、[444 - 郵票問題][444]、[67 - 妹妹，我的蛋蛋又大又硬][67] |                                  |                    |
 
 ## 去年第一階段考題
 | 題號 |  |
@@ -28,15 +28,18 @@
 [214]: https://neoj.sprout.tw/problem/214/
 [224]: https://neoj.sprout.tw/problem/224/
 [225]: https://neoj.sprout.tw/problem/225/
+[236]: https://neoj.sprout.tw/problem/236/
 [289]: https://neoj.sprout.tw/problem/289/
 [294]: https://neoj.sprout.tw/problem/294/
 [366]: https://neoj.sprout.tw/problem/366/
+[369]: https://neoj.sprout.tw/problem/369/
 [436]: https://neoj.sprout.tw/problem/436/
 [437]: https://neoj.sprout.tw/problem/437/
 [438]: https://neoj.sprout.tw/problem/438/
 [439]: https://neoj.sprout.tw/problem/439/
 [440]: https://neoj.sprout.tw/problem/440/
 [443]: https://neoj.sprout.tw/problem/443/
+[444]: https://neoj.sprout.tw/problem/444/
 [602]: https://neoj.sprout.tw/problem/602/
 [666]: https://neoj.sprout.tw/problem/666/
 [2217]: https://neoj.sprout.tw/problem/2217/
