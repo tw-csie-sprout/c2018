@@ -109,7 +109,8 @@
 | 主題       | 北區                  | 竹區                     |
 | -------- | ----------------------- | ------------------------ |
 | 複雜度   |  [complexity][T-complexity]                |
-| Sort    | [sort、二分搜][T-sort]|
+| Sort    | [sort、二分搜][T-sort]| [sort][H-sort]
 
 [T-complexity]: https://drive.google.com/open?id=1VuRtXRbKCOrV0mk55UfR7auK6K_T5jnu
 [T-sort]:https://www.csie.ntu.edu.tw/~b04902031/sprout_0512.html
+[H-sort]:https://hackmd.io/p/ByxvL2gJCM#/
