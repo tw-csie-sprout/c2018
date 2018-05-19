@@ -22,8 +22,8 @@
 
 
 ## 第二週投影片 03/10
-| 主題         | 北區                      | 竹區                           |
-| ------------ | ------------------------- | ------------------------------ |
+| 主題         | 北區                      | 竹區                   |
+| ------------ | ------------------------- | ---------------------- |
 | 條件式       | [if else][taipei-if-else] | [if else][H-if-else]
 | 迴圈(while)  | [while][taipei-while]     | [while迴圈][H-while]
 | 陣列         | [1D array][taipei-array]  | [1D array][H-1D-array]
@@ -37,11 +37,11 @@
 [H-1D-array]:https://drive.google.com/open?id=1O_oOpFO0Qujb057ybiYY6e-HfP4djJxu
 
 ## 第三週投影片 03/17
-| 主題           | 北區                      | 竹區                           |
-| -------------- | ------------------------- | ------------------------------ |
-| for + 控制流程 | [for + 控制流程][taipei-for-break-continue]   | [for + 控制流程][H-for-break-continue]
-| 多維陣列       | [多維陣列][taipei-multiarray]| [多維陣列、字元][H-multiarray-char]
-| 字元           | [字元][taipei-char]         | 
+| 主題           | 北區                                        | 竹區                                   |
+| -------------- | ------------------------------------------- | -------------------------------------- |
+| for + 控制流程 | [for + 控制流程][taipei-for-break-continue] | [for + 控制流程][H-for-break-continue]
+| 多維陣列       | [多維陣列][taipei-multiarray]               | [多維陣列、字元][H-multiarray-char]
+| 字元           | [字元][taipei-char] |
 
 [taipei-for-break-continue]: http://slides.com/cathycinna/deck-1/fullscreen
 [taipei-multiarray]: https://drive.google.com/open?id=1YoXS_wIYReHEtxR1LZamjnkckPspTF4y
@@ -63,13 +63,13 @@
 [H-data-type]: https://drive.google.com/open?id=1UbFTBMdOqyNbv1iysudZXuSftoEP9ZjX
 
 ## 第五週投影片 04/01
-| 主題           | 北區                      | 竹區                           |
-| -------------- | ------------------------- | ------------------------------ |
-|iofstream| [stream][T-stream]| [iofstream][H-iofstream]
-|字串| [string][T-string] |[字串][H-string]
-|struct| |[struct][H-struct]
-|上課影片| |[上課內容][H-video]
-|補充:getline函式| |[getline函式][H-getline]
+| 主題             | 北區               | 竹區                     |
+| ---------------- | ------------------ | ------------------------ |
+| iofstream        | [stream][T-stream] | [iofstream][H-iofstream]
+| 字串             | [string][T-string] | [字串][H-string]
+| struct           |                    | [struct][H-struct]
+| 上課影片         |                    | [上課內容][H-video]
+| 補充:getline函式 |                    | [getline函式][H-getline]
 
 
 [H-iofstream]:https://drive.google.com/open?id=1L59-hjVgjeAiYiGagk5Jwn7xvLYhFZE9
@@ -81,8 +81,8 @@
 [H-getline]:https://youtu.be/EP8nAYdck8c
 
 ## 第七週投影片 04/14
-| 主題       | 北區                  | 竹區                     |
-| -------- | ----------------------- | ------------------------ |
+| 主題     | 北區                    | 竹區                       |
+| -------- | ----------------------- | -------------------------- |
 | 修飾子   | 同竹區                  | [修飾子][T-qualifiers]
 | function | [function][func-taipei] | [function][H-function]
 | scope    | [scope][T-scope]        | [scope、生命週期][H-scope]
@@ -94,10 +94,10 @@
 [func-taipei]: https://www.csie.ntu.edu.tw/~b04902031/sprout_0414.html
 
 ## 第八週投影片 04/21
-| 主題       | 北區                   | 竹區                   |
-| -------- | ------------------------ | ---------------------- |
+| 主題     | 北區                     | 竹區                     |
+| -------- | ------------------------ | ------------------------ |
 | 遞迴     | [recursive][T-recursive] | [recursive][H-recursive]
-| 課程回顧 |[課程回顧][T-review] | [課程回顧][H-review1]
+| 課程回顧 | [課程回顧][T-review]     | [課程回顧][H-review1]
 
 [T-recursive]: https://slides.com/austinlaurice/deck-7#/
 [H-recursive]: https://drive.google.com/open?id=1rRXgTnFzhmZgP8Y1bcaWeVwv3z6VN_bz
@@ -106,10 +106,10 @@
 
 ## 第十一週投影片 05/12
 
-| 主題       | 北區                  | 竹區                     |
-| -------- | ----------------------- | ------------------------ |
-| 複雜度   |  [complexity][T-complexity] | [複雜度][H-complexity] |
-| Sort    | [sort、二分搜][T-sort]| [sort][H-sort]、[二分搜][H-bsearch] |
+| 主題   | 北區                       | 竹區                                |
+| ------ | -------------------------- | ----------------------------------- |
+| 複雜度 | [complexity][T-complexity] | [複雜度][H-complexity]
+| Sort   | [sort、二分搜][T-sort]     | [sort][H-sort]、[二分搜][H-bsearch]
 
 [T-complexity]: https://drive.google.com/open?id=1VuRtXRbKCOrV0mk55UfR7auK6K_T5jnu
 [T-sort]:https://www.csie.ntu.edu.tw/~b04902031/sprout_0512.html
@@ -118,8 +118,10 @@
 [H-bsearch]:https://drive.google.com/open?id=16vpZRoBGPpDfwv8M1EegxldAUmeQnHvp
 
 ## 第十二週投影片 05/19
-| 主題       | 北區                  | 竹區                     |
-| -------- | ----------------------- | ------------------------ |
-| 指標   |  | [指標][H-pointer] |
+| 主題      | 北區                  | 竹區                     |
+| --------- | --------------------- | ------------------------ |
+| 指標      | | [指標][H-pointer]
+| reference | | [reference][H-ref]
 
 [H-pointer]:https://drive.google.com/open?id=1U-SyerK7TnWmkGknZIH-Vy76vFEgXaN-
+[H-ref]: https://drive.google.com/file/d/0B0rNGJXk3ETcUHNtaVFvTEJwanc/view
