@@ -12,7 +12,7 @@
 | 04/14 |  07  | [225-3n+1 Problem (II)][225] | [224 - 超級GCD][224] |                                                                     | [week07][week07] |
 | 04/21 |  08  |                                                         | [443 - 天天爬樓梯][443] |                                         |                    | 
 | 05/12 |  09  | [369 - 書瑾與他的泡泡們][369]| [236 - 榜單排序][236]、[444 - 郵票問題][444]、[67 - 妹妹，我的蛋蛋又大又硬][67] |                                  |   [week09][week09] |
-| 05/19 |  10  |        | [751 - 淘汰賽](https://neoj.sprout.tw/problem/751/)| | |
+| 05/19 |  10  |        | [751 - 淘汰賽](https://neoj.sprout.tw/problem/751/)、[385 - Winston竟然發廢文][385]| | |
 ## 去年第一階段考題
 | 題號 |  |
 | :--: | :--: |
@@ -33,6 +33,7 @@
 [294]: https://neoj.sprout.tw/problem/294/
 [366]: https://neoj.sprout.tw/problem/366/
 [369]: https://neoj.sprout.tw/problem/369/
+[385]: https://neoj.sprout.tw/problem/385/
 [436]: https://neoj.sprout.tw/problem/436/
 [437]: https://neoj.sprout.tw/problem/437/
 [438]: https://neoj.sprout.tw/problem/438/
