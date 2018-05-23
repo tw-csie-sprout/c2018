@@ -128,3 +128,12 @@
 [T-reference]:https://drive.google.com/open?id=1cEkdxj5EMbp0R0W3FUpu8eN6GCvOkqH5
 [H-pointer]:https://drive.google.com/open?id=1U-SyerK7TnWmkGknZIH-Vy76vFEgXaN-
 [H-ref]: https://drive.google.com/file/d/0B0rNGJXk3ETcUHNtaVFvTEJwanc/view
+
+## 第十三週投影片 05/26
+| 主題      | 北區                  | 竹區                     |
+| --------- | --------------------- | ------------------------ |
+| header files、struct、new delete |  |  |
+| Link List | | [Link List][H-list] |
+
+[H-list]:https://drive.google.com/open?id=14PmleOOgWl8vayY6WDCZRkAdUFpl00fi
+
