@@ -67,7 +67,7 @@
 | ---------------- | ------------------ | ------------------------ |
 | iofstream        | [stream][T-stream] | [iofstream][H-iofstream]
 | 字串             | [string][T-string] | [字串][H-string]
-| struct           |                    | [struct][H-struct]
+| struct           | [struct][T-struct] | [struct][H-struct]
 | 上課影片         |                    | [上課內容][H-video]
 | 補充:getline函式 |                    | [getline函式][H-getline]
 
@@ -79,6 +79,7 @@
 [T-string]:https://drive.google.com/open?id=1ao1JClwrxZSy7TLsLkldBSSnO2pf0MGz
 [H-video]:https://youtu.be/ACZ_ZYuyuRs
 [H-getline]:https://youtu.be/EP8nAYdck8c
+[T-struct]:https://slides.com/zekt/deck-31c82fb6-5faf-4c34-ab1c-b94ae1c2de5a#/
 
 ## 第七週投影片 04/14
 | 主題     | 北區                    | 竹區                       |
