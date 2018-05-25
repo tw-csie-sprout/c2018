@@ -133,7 +133,7 @@
 ## 第十三週投影片 05/26
 | 主題      | 北區                  | 竹區                     |
 | --------- | --------------------- | ------------------------ |
-| header files、struct、new delete |  |  |
+| header files、struct、new delete |  | [header files、struct、new delete](https://docs.google.com/presentation/d/1Ipno_hE3yIm--VFR7_FpioktjemOCNTJZF_jinihA3g/edit?usp=sharing) |
 | Link List | | [Link List][H-list] |
 
 [H-list]:https://drive.google.com/open?id=14PmleOOgWl8vayY6WDCZRkAdUFpl00fi
