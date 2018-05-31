@@ -10,10 +10,11 @@
 | 03/24 |  04  |                                          |                    | [439 - 轉職大法師][439]、[440 - 分組活動][440] |[week04][week04]  |
 | 03/31 |  05  |                                          | [366 - 電話銷售員][366]、[2217 - Yog-Sothoth][2217] |                                      | [week05][week05] |
 | 04/14 |  07  | [225-3n+1 Problem (II)][225] | [224 - 超級GCD][224] |                                                                     | [week07][week07] |
-| 04/21 |  08  |                                                         | [443 - 天天爬樓梯][443] |                                         |                    | 
+| 04/21 |  08  |                                                         | [443 - 天天爬樓梯][443] |                                         |                    |
 | 05/12 |  09  | [369 - 書瑾與他的泡泡們][369]| [236 - 榜單排序][236]、[444 - 郵票問題][444]、[67 - 妹妹，我的蛋蛋又大又硬][67] |                                  |   [week09][week09] |
 | 05/19 |  10  |  [220 - 3n+1 Problem][220]      | [751 - 淘汰賽](https://neoj.sprout.tw/problem/751/)、[385 - Winston竟然發廢文][385]| | |
 | 05/26 |  11  |                                 | [445 - 天天發考卷][445] | | |
+| 06/02 | 12 | [36 - stack 練習][36] | [170 - doubly linked list][170] | | |
 ## 去年第一階段考題
 | 題號 |  |
 | :--: | :--: |
@@ -22,8 +23,10 @@
 | pD | [pD - f91][7126] |
 
 [12]: https://neoj.sprout.tw/problem/12/
+[36]: https://neoj.sprout.tw/problem/36/
 [67]: https://neoj.sprout.tw/problem/67/
 [107]: https://neoj.sprout.tw/problem/107/
+[170]: https://neoj.sprout.tw/problem/170/
 [203]: https://neoj.sprout.tw/problem/203/
 [208]: https://neoj.sprout.tw/problem/208/
 [214]: https://neoj.sprout.tw/problem/214/
