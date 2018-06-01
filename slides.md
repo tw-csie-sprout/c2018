@@ -139,3 +139,10 @@
 [H-list]:https://drive.google.com/open?id=14PmleOOgWl8vayY6WDCZRkAdUFpl00fi
 [T-structptr]: http://slides.com/wjpei/deck-8/fullscreen
 
+## 第十四週投影片 06/02
+
+| 主題      | 北區                  | 竹區                     |
+| --------- | --------------------- | ------------------------ |
+| 資料結構、STL | [STl][T-stl] |  |
+| Template | |  |
+[T-stl]: https://drive.google.com/open?id=1rtYai-bBl6to4Yyz4y9eWSjTwegMnCA9
