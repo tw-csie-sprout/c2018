@@ -144,7 +144,8 @@
 | 主題      | 北區                  | 竹區                     |
 | --------- | --------------------- | ------------------------ |
 | 資料結構、STL | [STl][T-stl] | [同北區][T-stl]  |
-| Template | | [C++ Template][H-Template] |
+| Template |[Template][T-template] | [C++ Template][H-Template] |
 
 [T-stl]: https://drive.google.com/open?id=1rtYai-bBl6to4Yyz4y9eWSjTwegMnCA9
 [H-Template]: https://hackmd.io/p/H1fh8FU1m#/
+[T-template]: https://www.csie.ntu.edu.tw/~b04902031/template.html
