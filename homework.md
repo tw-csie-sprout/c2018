@@ -16,7 +16,7 @@
 | 05/12 |  11  | [369 - 書瑾與他的泡泡們][369]| [236 - 榜單排序][236]、[444 - 郵票問題][444]、[67 - 妹妹，我的蛋蛋又大又硬][67] |                                  | [week11][week11] |
 | 05/19 |  12  |  [220 - 3n+1 Problem][220]      | [751 - 淘汰賽](https://neoj.sprout.tw/problem/751/)、[385 - Winston竟然發廢文][385]| | |
 | 05/26 |  13  |                                 | [445 - 天天發考卷][445] | | [week13][week13] |
-| 06/02 | 14 | [36 - stack 練習][36] | [170 - doubly linked list][170] [446 - 以template實作stack][446]| | |
+| 06/02 | 14 | [36 - stack 練習][36]、[37 - queue 練習][37] | [170 - doubly linked list][170]、[446 - 以template實作stack][446]| | |
 ## 去年第一階段考題
 | 題號 |  |
 | :--: | :--: |
@@ -26,6 +26,7 @@
 
 [12]: https://neoj.sprout.tw/problem/12/
 [36]: https://neoj.sprout.tw/problem/36/
+[37]: https://neoj.sprout.tw/problem/37/
 [67]: https://neoj.sprout.tw/problem/67/
 [107]: https://neoj.sprout.tw/problem/107/
 [170]: https://neoj.sprout.tw/problem/170/
