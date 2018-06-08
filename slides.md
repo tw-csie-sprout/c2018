@@ -134,7 +134,7 @@
 | 主題      | 北區                  | 竹區                     |
 | --------- | --------------------- | ------------------------ |
 | header files、struct、new delete | [struct-ptr, new/delete][T-structptr] | [header files、struct、new delete](https://docs.google.com/presentation/d/1Ipno_hE3yIm--VFR7_FpioktjemOCNTJZF_jinihA3g/edit?usp=sharing) |
-| Link List | | [Link List][H-list] |
+| Link List | [同竹區][H-list] | [Link List][H-list] |
 
 [H-list]:https://drive.google.com/open?id=14PmleOOgWl8vayY6WDCZRkAdUFpl00fi
 [T-structptr]: http://slides.com/wjpei/deck-8/fullscreen
@@ -154,9 +154,12 @@
 
 | 主題      | 北區                  | 竹區                     |
 | --------- | --------------------- | ------------------------ |
-| OOP |  | [Basic OOP][H-OOP] |
+| OOP | [OOP & Class][T-OOP] | [Basic OOP][H-OOP] |
 | Class |  | [Class][H-Class] |
+| STL2 | [sort & permutation][T-STL2] | |
 
+[T-OOP]: https://drive.google.com/file/d/1cUab3OfmXWgN-uW2eQN7Bh9XdWtrAd4y/view
 [H-OOP]: https://drive.google.com/open?id=1sZ3LU2kOFZYNeuKZijvnz7lJyj30P9PZ
 [H-Class]: https://drive.google.com/open?id=1TBqZ9-r_iKmJht6qpWMTf7WvqR6lchq8
+[T-STL2]: https://hackmd.io/p/By-iIvdgX
 
