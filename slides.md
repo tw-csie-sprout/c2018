@@ -149,3 +149,14 @@
 [T-stl]: https://drive.google.com/open?id=1rtYai-bBl6to4Yyz4y9eWSjTwegMnCA9
 [H-Template]: https://hackmd.io/p/H1fh8FU1m#/
 [T-template]: https://www.csie.ntu.edu.tw/~b04902031/template.html
+
+## 第十五週投影片 06/09
+
+| 主題      | 北區                  | 竹區                     |
+| --------- | --------------------- | ------------------------ |
+| OOP |  | [Basic OOP][H-OOP] |
+| Class |  | [Class][H-Class] |
+
+[H-OOP]: https://drive.google.com/open?id=1sZ3LU2kOFZYNeuKZijvnz7lJyj30P9PZ
+[H-Class]: https://drive.google.com/open?id=1TBqZ9-r_iKmJht6qpWMTf7WvqR6lchq8
+
