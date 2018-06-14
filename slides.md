@@ -163,3 +163,13 @@
 [H-Class]: https://drive.google.com/open?id=1TBqZ9-r_iKmJht6qpWMTf7WvqR6lchq8
 [T-STL2]: https://hackmd.io/p/By-iIvdgX
 [H-STL2]: https://hackmd.io/p/r1llGugggX#/
+
+## 第十六週投影片 06/16
+
+| 主題      | 北區                  | 竹區                     |
+| --------- | --------------------- | ------------------------ |
+|遞迴| | [遞迴][H-recursive] |
+|DFS| | [DFS][H-dfs] |
+
+[H-recursive]: https://drive.google.com/open?id=1nfjF7G_Q2HIHHDzYZALZBHLxEM93knra
+[H-dfs]: https://drive.google.com/open?id=1GYr0yJ6a_YnPlYr6MEjHePdj0VpQAMiN
