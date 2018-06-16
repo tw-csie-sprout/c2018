@@ -18,7 +18,7 @@
 | 05/26 |  13  |                                 | [445 - 天天發考卷][445] | | [week13][week13] |
 | 06/02 | 14 | [36 - stack 練習][36]、[37 - queue 練習][37] | [170 - doubly linked list][170]、[446 - 以template實作stack][446]| | |
 | 06/09 | 15 |                                   | [447 - 喵格華茲的休閒娛樂][447]、[448 - 麻將排序問題][448]| |[week15][week15]|
-| 06/16 | 16 |                                   | [989 - 子集合](https://neoj.sprout.tw/problem/989/) | | | |
+| 06/16 | 16 | [153 - 文字轉轉轉][153]、[8787 - 倒水問題][8787]| [989 - 子集合][989] | | | |
 ## 去年第一階段考題
 | 題號 |  |
 | :--: | :--: |
@@ -39,6 +39,7 @@
 [37]: https://neoj.sprout.tw/problem/37/
 [67]: https://neoj.sprout.tw/problem/67/
 [107]: https://neoj.sprout.tw/problem/107/
+[153]: https://neoj.sprout.tw/problem/153/
 [170]: https://neoj.sprout.tw/problem/170/
 [203]: https://neoj.sprout.tw/problem/203/
 [208]: https://neoj.sprout.tw/problem/208/
@@ -65,7 +66,9 @@
 [448]: https://neoj.sprout.tw/problem/448/
 [602]: https://neoj.sprout.tw/problem/602/
 [666]: https://neoj.sprout.tw/problem/666/
+[989]: https://neoj.sprout.tw/problem/989/
 [2217]: https://neoj.sprout.tw/problem/2217/
+[8787]: https://neoj.sprout.tw/problem/8787/
 
 [7124]: https://neoj.sprout.tw/problem/7124/
 [7125]: https://neoj.sprout.tw/problem/7125/
