@@ -26,6 +26,14 @@
 | pC | [pC - 逃避責任][7125] |
 | pD | [pD - f91][7126] |
 
+## 去年第二階段考題
+| 題號 |  |
+| :--: | :--: |
+| pA | [pA - 麻煩的離校手續][500] |
+| pB | [pB - 柏林之環][501] |
+| pC | [pC - 瑪麗貓賽車][502] |
+| pD | [pD - 區塊鏈大師][503] |
+
 [12]: https://neoj.sprout.tw/problem/12/
 [36]: https://neoj.sprout.tw/problem/36/
 [37]: https://neoj.sprout.tw/problem/37/
@@ -62,6 +70,12 @@
 [7124]: https://neoj.sprout.tw/problem/7124/
 [7125]: https://neoj.sprout.tw/problem/7125/
 [7126]: https://neoj.sprout.tw/problem/7126/
+
+[500]: https://neoj.sprout.tw/problem/500/
+[501]: https://neoj.sprout.tw/problem/501/
+[502]: https://neoj.sprout.tw/problem/502/
+[503]: https://neoj.sprout.tw/problem/503/
+
 
 [week01]: https://www.csie.ntu.edu.tw/~b04902031/436.html#1
 [week02]: https://drive.google.com/open?id=12zW8sLnYmm9gplnc7kx2MK1WZGOm6m3-
