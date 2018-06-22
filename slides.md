@@ -176,3 +176,14 @@
 [T-recursive2]: https://drive.google.com/open?id=1SP_MZ0JvVHstwNvrfbrfHObP-ouHf7Jy
 [H-recursive2]: https://drive.google.com/open?id=1nfjF7G_Q2HIHHDzYZALZBHLxEM93knra
 [H-dfs]: https://drive.google.com/open?id=1GYr0yJ6a_YnPlYr6MEjHePdj0VpQAMiN
+
+## 第十七週投影片 06/23
+
+
+| 主題     | 北區                  | 竹區                     |
+| -------- | --------------------- | ------------------------ |
+| 課程回顧 | | [回顧][H-review2]
+| 課程展望 | | [展望][H-outlook]
+
+[H-review2]: https://hackmd.io/p/rkXRxjcZX#
+[H-outlook]: https://hackmd.io/p/SyVZjsc-X#
