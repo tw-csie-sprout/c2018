@@ -184,7 +184,9 @@
 | -------- | --------------------- | ------------------------ |
 | 課程回顧 | | [回顧][H-review2]
 | 課程展望 | [展望][T-future]| [展望][H-outlook]
+| 企業參訪 | [企業參訪][Corp]| 
 
 [H-review2]: https://hackmd.io/p/rkXRxjcZX#
 [H-outlook]: https://hackmd.io/p/SyVZjsc-X#
 [T-future]: https://docs.google.com/presentation/d/1LJS4cmg-7jAaUP-S7E8bxL8cUkMV-GBIlq5O0XXr3dI/edit#slide=id.p
+[Corp]: https://drive.google.com/open?id=1XV11to6j6-qusEgn3dLmR0obzLRE55rq
