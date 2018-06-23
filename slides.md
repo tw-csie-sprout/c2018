@@ -183,7 +183,8 @@
 | 主題     | 北區                  | 竹區                     |
 | -------- | --------------------- | ------------------------ |
 | 課程回顧 | | [回顧][H-review2]
-| 課程展望 | | [展望][H-outlook]
+| 課程展望 | [展望][T-future]| [展望][H-outlook]
 
 [H-review2]: https://hackmd.io/p/rkXRxjcZX#
 [H-outlook]: https://hackmd.io/p/SyVZjsc-X#
+[T-future]: https://docs.google.com/presentation/d/1LJS4cmg-7jAaUP-S7E8bxL8cUkMV-GBIlq5O0XXr3dI/edit#slide=id.p
